@@ -22,4 +22,4 @@
 
 ### Результат
 
-![Результат](public/result.gif)
+![Результат](./public/result.gif)
